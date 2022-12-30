@@ -32,8 +32,3 @@
 
 <br>
 
-:warning: **Note:** Notice the `fetchUrl` prop that is being passed into the `Row` component. This is the dynamic API endpoint that you will need to use to get the data for each `Row` component. You will need to fetch the data from the API and save it to the `movies` state.
-
-<br>
-
-:warning: **Note:** isLargeRow is a prop that is being passed into the `Row` component. This prop is used to determine if the `Row` component is the large row or not. If the `Row` component is the large row, then the styling will be different. You will need to use this prop to determine the styling of the `Row` component.
